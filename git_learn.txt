@@ -36,3 +36,9 @@ $git log
 
 #查看日志简略信息
 $git log --pretty=oneline
+
+#回滚到指定版本
+$git reset --hard xxx
+
+#获得所有日志，包含回滚等
+$git reflog 
