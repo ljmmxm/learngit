@@ -52,3 +52,6 @@ $ssh-keygen -t rsa -C "youremail@example.com"
 #推送本地库到远程
 git remote add learn git@github.com:ljmmxm/learngit.git
 git push -u learn master
+
+#克隆git
+git clone git@github.com:ljmmxm/git_clone.git
