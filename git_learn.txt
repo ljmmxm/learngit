@@ -42,3 +42,6 @@ $git reset --hard xxx
 
 #查询命令历史
 $git reflog 
+
+#将文件回到最近一次git commit或者git add时的状态
+git checkout -- xxx
