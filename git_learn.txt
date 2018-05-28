@@ -64,3 +64,6 @@ $ git checkout -b dev
 
 #查看当前分支
 $git branch
+
+#删除分支
+git checkout -d xxx
