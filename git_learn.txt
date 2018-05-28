@@ -20,7 +20,13 @@ $pwd
 $git init
 
 #添加到仓库
-git add xxx
+$git add xxx
 
 #提交到仓库
-git commit -m "描述信息"
+$git commit -m "描述信息"
+
+#查看仓库状态
+$git status
+
+#查看修改内容
+$git diff xxx
