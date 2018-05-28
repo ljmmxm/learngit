@@ -56,6 +56,9 @@ git push -u learn master
 #克隆git
 git clone git@github.com:ljmmxm/git_clone.git
 
+#合并分支
+git merge xxx
+
 #创建分支
 $ git checkout -b dev
 
