@@ -45,3 +45,10 @@ $git reflog
 
 #将文件回到最近一次git commit或者git add时的状态
 git checkout -- xxx
+
+#创建ssh key
+$ssh-keygen -t rsa -C "youremail@example.com"
+
+#推送本地库到远程
+git remote add learn git@github.com:ljmmxm/learngit.git
+git push -u learn master
