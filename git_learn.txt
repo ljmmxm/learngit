@@ -30,3 +30,9 @@ $git status
 
 #查看修改内容
 $git diff xxx
+
+#查看日志
+$git log
+
+#查看日志简略信息
+$git log --pretty=oneline
