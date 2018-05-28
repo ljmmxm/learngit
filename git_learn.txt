@@ -40,5 +40,5 @@ $git log --pretty=oneline
 #回滚到指定版本
 $git reset --hard xxx
 
-#获得所有日志，包含回滚等
+#查询命令历史
 $git reflog 
